@@ -7,9 +7,7 @@ Hello! My name is Matthew
 <div align="center">
 	<p>Once upon a time I decided to start programming around the age of 10 years old.</p>
 	
-	<p>
-	I had an early interest in multimedia that lead me into doing some pretty engaging projects such as the following.
-	</p>
+	<p>I had an early interest in multimedia that lead me into doing some pretty engaging projects such as the following.</p>
 	
 	[todo insert images]
 	
