@@ -11,9 +11,7 @@ Hello! My name is Matthew
 	
 	[todo insert images]
 	
-	<p>
-			Through a strange turn of events, I ended up shifting focus over to software engineering, and somehow ended leading a team responsible for creating the worlds most complex Inventory Tracking System for a space in the beverage manufacturing industry. The specs I has handed for designing core looked a little something like this, with flowcharts ranging from 30 to in upwards of a 100 pages. Needless to say, there was a lot of coffee and beer involved in the process.
-	</p>
+	<p>Through a strange turn of events, I ended up shifting focus over to software engineering, and somehow ended leading a team responsible for creating the worlds most complex Inventory Tracking System for a space in the beverage manufacturing industry. The specs I has handed for designing core looked a little something like this, with flowcharts ranging from 30 to in upwards of a 100 pages. Needless to say, there was a lot of coffee and beer involved in the effort.</p>
 	
 		[todo insert images]
 		
